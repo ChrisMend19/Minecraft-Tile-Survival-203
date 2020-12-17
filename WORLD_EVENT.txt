@@ -1,0 +1,9 @@
+The event is triggered by clicking on one of the many purple "nether" portals located around the map.
+Upon being triggered, the event spawns several ghasts (a new entity type) and adds lava and and nether rock
+to the background. The ghasts move slower than the other entities but do extra damage to the user. The event
+also edits existing entities such as the skeleton, which changes its appearance as well as its damage output.
+Additionally, triggering the world event, the user gains the ability to teleport via the portals.
+
+Partners:
+Alex, Chris: pretty much responsible for the same tasks; creating multiple background, adding and removing entities,
+editing previous entity behaviors, implementing pathing and movement, creating game mechanics etc.

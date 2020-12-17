@@ -1,0 +1,51 @@
+nether images/portal.png 255 255 255 0
+nether images/portal.png
+nether images/portal.png
+nether images/portal.png
+nether images/portal.png
+nether images/portal.png
+nether images/portal.png
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+crab images/bubbles.bmp 255 255 255 128
+diamond images/diamondBlock.png 255 255 255 0
+diamondCollect images/diamondBlock2.png 255 255 255 0
+skeleton images/skeleton.png 255 255 255 0
+skeleton images/skeleton.png 255 255 255 0
+skeleton images/skeleton.png 255 255 255 0
+skeleton images/skeleton.png 255 255 255 0
+skeleton images/skeleton.png 255 255 255 0
+obstacle images/obsidian.png
+zombie images/zombie.jpg 255 255 255 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+bubbles images/grassBlock.png
+barrier images/grassBlock.png
+dirt images/dirtBlock3.jpg
+stone images/stoneBlock.png
+gravel images/gravel.jpg
+coal images/coalOre.png
+gold images/goldOreBlock.jpg
+emerald images/emerald.jpg
+lava images/lava.png
+steve images/steve.png 255 255 255 0
+village images/village.png 255 255 255 0
+background_default images/none.bmp
+netherBlock images/nether.jpg 255 255 255 0
+ghast images/ghast.png 255 255 255 0
+creeper images/creeper.jpg 255 255 255 128
+commandBlock images/commandblock.jpg
+end images/endTile.jpg
